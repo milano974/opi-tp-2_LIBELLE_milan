@@ -51,3 +51,4 @@ mean=$(echo "scale=2; ($sum) / $num" | bc -l)
 
 echo "Number of students,$num"
 echo "Mean,$mean"
+echo "Teacher, Mathieu Moneyron"
