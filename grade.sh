@@ -5,7 +5,7 @@
 
 [ $# -eq 0 ] && echo Please provide a directory with grade files && exit 1
 dir=$1
-
+echo "Year, 2026"
 # Print csv header
 echo "Student,Grade"
 
