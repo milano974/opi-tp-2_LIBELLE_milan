@@ -1,11 +1,12 @@
 #!/bin/bash
 #
 # AUTHOR: Mathieu MONEYRON - 2026
+# AUTHOR: Milan LIBELLE - 2026
 # LICENCE: GPL-2.0
 
 [ $# -eq 0 ] && echo Please provide a directory with grade files && exit 1
 dir=$1
-echo "Year, 2026"
+echo "Année,2026"
 # Print csv header
 echo "Student,Grade"
 
